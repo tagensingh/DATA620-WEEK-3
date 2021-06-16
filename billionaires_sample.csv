@@ -1,0 +1,202 @@
+rank,worth,name,source,industries,citizenship,gender,lastname,pworth
+1,194752.748,Bernard Arnault & family,LVMH,Fashion & Retail,France,M,Arnault,194752.7476
+2,193371.207,Jeff Bezos,Amazon,Technology,United States,M,Bezos,193371.2075
+3,153245.292,Elon Musk,"Tesla, SpaceX",Automotive,United States,M,Musk,153245.2917
+4,126812.953,Bill Gates,Microsoft,Technology,United States,M,Gates,126812.9531
+5,120055.498,Mark Zuckerberg,Facebook,Technology,United States,M,Zuckerberg,120055.498
+6,108119.629,Warren Buffett,Berkshire Hathaway,Finance & Investments,United States,M,Buffett,108119.6293
+7,106903.505,Larry Ellison,software,Technology,United States,M,Ellison,106903.5045
+8,106214.304,Larry Page,Google,Technology,United States,M,Page,106214.3043
+9,102918.81,Sergey Brin,Google,Technology,United States,M,Brin,102918.8103
+10,91745.968,Francoise Bettencourt Meyers & family,L'Oréal,Fashion & Retail,France,F,Bettencourt Meyers,91745.96797
+11,86422.472,Amancio Ortega,Zara,Fashion & Retail,Spain,M,Ortega,86422.47164
+12,85781.919,Mukesh Ambani,diversified,Diversified,India,M,Ambani,85781.91869
+13,76061.205,Steve Ballmer,Microsoft,Technology,United States,M,Ballmer,76061.20451
+14,74878.888,Gautam Adani & family,"infrastructure, commodities",Diversified,India,M,Adani,74878.88817
+15,73516.849,Carlos Slim Helu & family,telecom,Telecom,Mexico,M,Slim Helu,73516.84881
+16,72104.906,Zhong Shanshan,"beverages, pharmaceuticals",Food & Beverage,China,M,Zhong,72104.90582
+17,66337.462,Alice Walton,Walmart,Fashion & Retail,United States,F,Walton,66337.462
+18,64587.674,Jim Walton,Walmart,Fashion & Retail,United States,M,Walton,64587.674
+19,63799.969,Rob Walton,Walmart,Fashion & Retail,United States,M,Walton,63799.96866
+20,59068.083,MacKenzie Scott,Amazon,Technology,United States,F,Scott,59068.08261
+21,59000,Michael Bloomberg,Bloomberg LP,Media & Entertainment,United States,M,Bloomberg,59000
+22,58243.72,Ma Huateng,internet media,Technology,China,M,Ma,58243.72016
+23,56237.688,François Pinault & family,luxury goods,Fashion & Retail,France,M,Pinault,56237.68794
+24,52356.205,Michael Dell,Dell computers,Technology,United States,M,Dell,52356.20474
+25,49433.161,Phil Knight & family,Nike,Fashion & Retail,United States,M,Knight,49433.16066
+26,47305.578,Charles Koch,Koch Industries,Diversified,United States,M,Koch,47305.578
+26,47305.578,Julia Koch & family,Koch Industries ,Diversified,United States,F,Koch,47305.578
+28,46071.911,Jack Ma,e-commerce,Technology,China,M,Ma,46071.91051
+29,45616.897,David Thomson & family,media,Media & Entertainment,Canada,M,Thomson,45616.89689
+30,43184.179,Daniel Gilbert,Quicken Loans,Finance & Investments,United States,M,Gilbert,43184.17891
+31,42982.228,Colin Zheng Huang,e-commerce,Technology,China,M,Huang,42982.228
+32,41947.754,Beate Heister & Karl Albrecht Jr.,supermarkets,Fashion & Retail,Germany,,Albrecht Jr.,41947.75416
+33,40605.304,Robin Zeng,batteries,Energy,Hong Kong,M,Zeng,40605.30411
+34,37730.425,Tadashi Yanai & family,fashion retail,Fashion & Retail,Japan,M,Yanai,37730.42541
+35,36743.157,Klaus-Michael Kuehne,shipping,Logistics,Germany,M,Kuehne,36743.15738
+36,36259.615,Masayoshi Son,"internet, telecom",Telecom,Japan,M,Son,36259.61481
+37,36238.42,Zhang Yiming,TikTok,Technology,China,M,Zhang,36238.42013
+38,35684.668,Giovanni Ferrero,"Nutella, chocolates",Food & Beverage,Italy,M,Ferrero,35684.66756
+39,35577.283,Li Ka-shing,diversified,Diversified,Hong Kong,M,Li,35577.28328
+40,35216.88,Miriam Adelson,casinos,Gambling & Casinos,United States,F,Adelson,35216.88005
+41,34493.997,Dieter Schwarz,retail,Fashion & Retail,Germany,M,Schwarz,34493.99661
+42,34431.668,William Lei Ding,online games,Technology,China,M,Ding,34431.668
+43,34270.214,Yang Huiyan & family,real estate,Real Estate,China,F,Yang,34270.21401
+44,33865.831,Lee Shau Kee,real estate,Real Estate,Hong Kong,M,Lee,33865.83104
+45,33803.784,Alain Wertheimer,Chanel,Fashion & Retail,France,M,Wertheimer,33803.784
+45,33803.784,Gerard Wertheimer,Chanel,Fashion & Retail,France,M,Wertheimer,33803.784
+47,33136.863,Alexey Mordashov & family,"steel, investments",Metals & Mining,Russia,M,Mordashov & family,33136.86312
+48,33035.812,He Xiangjian,home appliances,Manufacturing,China,M,He,33035.81216
+49,32490.925,Len Blavatnik,"music, chemicals",Diversified,United States,M,Blavatnik,32426.07977
+50,32051.554,Jacqueline Mars,"candy, pet food",Food & Beverage,United States,F,Mars,32051.554
+50,32051.554,John Mars,"candy, pet food",Food & Beverage,United States,M,Mars,32051.554
+52,31235.563,Susanne Klatten,"BMW, pharmaceuticals",Automotive,Germany,F,Klatten,31235.56339
+53,30674.354,Vladimir Lisin,"steel, transport",Metals & Mining,Russia,M,Lisin,30758.89167
+54,30477.692,Vladimir Potanin,metals,Metals & Mining,Russia,M,Potanin,30477.69158
+55,29354.433,Leonardo Del Vecchio & family,eyeglasses,Fashion & Retail,Italy,M,Del Vecchio,29354.43315
+56,29240.855,Wang Wei,package delivery,Service,China,M,Wang,29240.85493
+57,28871.983,Dietrich Mateschitz,Red Bull,Food & Beverage,Austria,M,Mateschitz,28871.98305
+58,28679.196,Stephen Schwarzman,investments,Finance & Investments,United States,M,Schwarzman,28679.19567
+59,28186.945,Pang Kang,soy sauce ,Food & Beverage,China,M,Pang,28186.94518
+60,27178.35,Leonid Mikhelson,"gas, chemicals",Energy,Russia,M,Mikhelson,27178.3502
+61,26909.867,Jiang Rensheng & family,vaccines,Healthcare,China,M,Jiang,26909.8674
+62,26742.987,Takemitsu Takizaki,sensors,Manufacturing,Japan,M,Takizaki,26742.98729
+63,26682.04,Li Xiting,medical devices,Healthcare,Singapore,M,Li,26682.04012
+64,26681.051,Qin Yinglin & family,pig breeding,Food & Beverage,China,M,Qin,26681.05058
+65,26279.118,Vagit Alekperov,oil,Energy,Russia,M,Alekperov,26279.11847
+66,26060.893,German Larrea Mota Velasco & family,mining,Metals & Mining,Mexico,M,Larrea Mota Velasco,26060.89331
+67,25939.674,Lei Jun,smartphones,Technology,China,M,Lei,26020.34476
+68,25710.122,Leonard Lauder,Estee Lauder,Fashion & Retail,United States,M,Lauder,25710.12214
+69,25686.509,Stefan Quandt,BMW,Automotive,Germany,M,Quandt,25686.50861
+70,24666.609,Chen Bang,hospitals,Healthcare,China,M,Chen,24666.609
+71,24582,Jim Simons,hedge funds,Finance & Investments,United States,M,Simons,24582
+72,24425.537,Shiv Nadar,software services,Technology,India,M,Nadar,24425.53739
+73,24171.305,Gennady Timchenko,"oil, gas",Energy,Russia,M,Timchenko,24171.30467
+74,23996.5,Pierre Omidyar,"eBay, PayPal",Technology,United States,M,Omidyar,23996.50047
+75,23940.601,Xu Hang,medical devices,Healthcare,Hong Kong,M,Xu,23940.60065
+76,23913.527,Wang Xing,e-commerce,Technology,China,M,Wang,23913.52739
+77,23757.188,Gina Rinehart,mining,Metals & Mining,Australia,F,Rinehart,23758.49325
+78,22704.934,Rupert Murdoch & family,"newspapers, TV network",Media & Entertainment,United States,M,Murdoch,22704.93357
+79,22515.303,Hui Ka Yan,real estate,Real Estate,China,M,Hui,22515.30299
+80,22418.752,Stefan Persson,H&M,Fashion & Retail,Sweden,M,Persson,22418.75154
+81,22360.689,Dustin Moskovitz,Facebook,Technology,United States,M,Moskovitz,22360.68932
+82,22111.796,Thomas Peterffy,discount brokerage,Finance & Investments,United States,M,Peterffy,22111.79616
+83,21983.169,Abigail Johnson,money management,Finance & Investments,United States,F,Johnson,21983.169
+84,21869.335,Goh Cheng Liang,paints,Manufacturing,Singapore,M,Goh,21869.33457
+85,21858.322,Iris Fontbona & family,mining,Metals & Mining,Chile,F,Fontbona,21858.32189
+86,21642.316,Wei Jianjun & family,automobiles,Automotive,China,M,Wei,21642.31557
+87,21523.545,Andrew Forrest,mining,Metals & Mining,Australia,M,Forrest,21523.54505
+88,21368.351,Eric Schmidt,Google,Technology,United States,M,Schmidt,21368.3509
+89,20860.804,Jorge Paulo Lemann & family,beer,Food & Beverage,Brazil,M,Lemann,20860.80351
+90,20620.587,Zhang Zhidong,internet media,Technology,China,M,Zhang,20620.58657
+91,20321.75,Ray Dalio,hedge funds,Finance & Investments,United States,M,Dalio,20321.75
+92,20279.868,Peter Woo,real estate,Real Estate,Hong Kong,M,Woo,20279.86846
+93,20246.67,Theo Albrecht Jr & family,"Aldi, Trader Joe's",Fashion & Retail,Germany,M,Albrecht,20246.67
+94,20070.22,Emmanuel Besnier,cheese,Food & Beverage,France,M,Besnier,20070.21997
+95,19766.142,Andrey Melnichenko,"coal, fertilizers",Energy,Russia,M,Melnichenko,19766.142
+96,19712.799,R. Budi Hartono,"banking, tobacco",Finance & Investments,Indonesia,M,Hartono,19712.79871
+97,19351.425,Laurene Powell Jobs & family,"Apple, Disney",Technology,United States,F,Powell Jobs,19351.4252
+98,19141.916,Lakshmi Mittal,steel,Metals & Mining,India,M,Mittal,19141.91013
+99,19089.287,Andreas Struengmann & family,pharmaceuticals,Healthcare,Germany,M,Struengmann,19089.28705
+99,19089.287,Thomas Struengmann & family,pharmaceuticals,Healthcare,Germany,M,Struengmann,19089.28705
+101,19034.569,Wang Chuanfu,"batteries, automobiles",Automotive,China,M,Wang,19034.56902
+102,18946.241,Michael Hartono,"banking, tobacco ",Manufacturing,Indonesia,M,Hartono,18946.2406
+103,18738.794,Alisher Usmanov,"steel, telecom, investments",Metals & Mining,Russia,M,Usmanov,18738.79427
+104,18688.398,Charlene de Carvalho-Heineken & family,Heineken,Food & Beverage,Netherlands,F,de Carvalho-Heineken,18688.39821
+105,18612.787,Li Shufu,automobiles,Automotive,China,M,Li,18612.78654
+106,18349.274,Robert Pera,wireless networking gear,Technology,United States,M,Pera,18349.2743
+107,18307.954,Huang Shilin,batteries,Energy,China,M,Huang,18307.95443
+108,18271.201,Richard Qiangdong Liu,e-commerce,Technology,China,M,Liu,18271.20099
+109,18230.783,Eduardo Saverin,Facebook,Technology,Brazil,M,Saverin,18230.78338
+110,17853.283,Zhong Huijuan,pharmaceuticals,Healthcare,China,F,Zhong,17853.28252
+111,17687.981,Thomas Frist Jr & family,hospitals,Healthcare,United States,M,Frist,17687.98128
+112,17445.033,Wu Yajun,real estate,Real Estate,China,F,Wu,17445.03281
+113,17377.8,Lee Man Tat,food,Food & Beverage,Hong Kong,M,Lee,17377.8
+114,17236,Pavel Durov,messaging app,Technology,Russia,M,Durov,17236
+115,17054.65,James Ratcliffe,chemicals,Manufacturing,United Kingdom,M,Ratcliffe,17054.65033
+116,16864.369,Lui Che Woo & family,casinos/hotels,Gambling & Casinos,Hong Kong,M,Lui,16864.36948
+117,16773.165,Sun Piaoyang,pharmaceuticals,Healthcare,China,M,Sun,16773.16477
+118,16723.567,Lukas Walton,Walmart ,Fashion & Retail,United States,M,Walton,16723.56703
+119,16680.504,Jensen Huang,semiconductors,Technology,United States,M,Huang,16680.5038
+120,16638.743,Reinhold Wuerth & family,fasteners,Manufacturing,Germany,M,Wuerth,16638.74289
+121,16610.275,Suleiman Kerimov & family,investments,Finance & Investments,Russia,M,Kerimov & family,16610.27479
+122,16421.361,Ernest Garcia II,used cars,Automotive,United States,M,Garcia,16421.36063
+123,16419.102,Dhanin Chearavanont,diversified,Diversified,Thailand,M,Chearavanont,16419.10191
+124,16284.284,Georg Schaeffler,auto parts,Automotive,Germany,M,Schaeffler,16284.28388
+125,16181.584,Pallonji Mistry,construction,Construction & Engineering,Ireland,M,Mistry,16181.58372
+126,16114.353,Ken Griffin,hedge funds,Finance & Investments,United States,M,Griffin,16114.353
+127,16040.46,Eric Yuan & family,video conferencing,Technology,United States,M,Yuan,16040.45954
+128,15998.081,Radhakishan Damani,"retail, investments",Fashion & Retail,India,M,Damani,15998.08095
+129,15992.02,Donald Newhouse,media,Media & Entertainment,United States,M,Newhouse,15992.02027
+130,15985.609,Steve Cohen,hedge funds,Finance & Investments,United States,M,Cohen,15985.60928
+131,15806.791,Ricardo Salinas Pliego & family,"retail, media",Fashion & Retail,Mexico,M,Salinas Pliego,15806.79092
+132,15781.701,Mikhail Fridman,"oil, banking, telecom",Energy,Russia,M,Fridman,15781.70149
+133,15377.001,Hinduja brothers,diversified,Diversified,United Kingdom,M,Hinduja,15377.00133
+134,15318.725,Gong Hongjia & family,video surveillance ,Finance & Investments,Hong Kong,M,Gong,15318.72524
+135,15300,Donald Bren,real estate,Real Estate,United States,M,Bren,15300
+136,15274.747,Savitri Jindal & family,steel,Metals & Mining,India,F,Jindal,15274.74658
+137,15152.188,Roman Abramovich,"steel, investments",Diversified,Russia,M,Abramovich,15152.20796
+138,15126.283,Mike Cannon-Brookes,software,Technology,Australia,M,Cannon-Brookes,15126.28326
+139,15071.901,Carl Icahn,investments,Finance & Investments,United States,M,Icahn,15071.90114
+140,15034.031,Uday Kotak,banking,Finance & Investments,India,M,Kotak,15034.03076
+141,14989.861,Forrest Li,gaming,Media & Entertainment,Singapore,M,Li,14989.86053
+142,14973.988,Kwong Siu-hing,real estate,Real Estate,Hong Kong,F,Kwong,14973.98768
+143,14954.376,Scott Farquhar,software,Technology,Australia,M,Farquhar,14954.3759
+144,14710.6,Wang Wenyin,"mining, copper products",Metals & Mining,China,M,Wang,14710.6
+145,14699.884,Wang Jianlin,real estate,Real Estate,China,M,Wang,14699.88445
+146,14671.726,Zhang Yong,restaurants,Food & Beverage,Singapore,M,Zhang,14671.72626
+147,14670.991,Ma Jianrong & family,"textiles, apparel",Fashion & Retail,China,M,Ma,14670.99062
+148,14664.425,Kirsten Rausing,packaging,Food & Beverage,Sweden,F,Rausing,14664.42511
+148,14664.425,Jorn Rausing,packaging,Food & Beverage,Sweden,M,Rausing,14664.42511
+148,14664.425,Finn Rausing,packaging,Food & Beverage,Sweden,M,Rausing,14664.42511
+151,14499.95,David Tepper,hedge funds,Finance & Investments,United States,M,Tepper,14499.95
+152,13874.477,Cyrus Poonawalla,vaccines,Healthcare,India,M,Poonawalla,13874.47662
+153,13817.974,John Menard Jr,home improvement stores,Fashion & Retail,United States,M,Menard,13817.97361
+154,13767.207,Marcel Herrmann Telles,beer,Food & Beverage,Brazil,M,Telles,13767.20654
+155,13716.052,Kumar Birla,commodities,Diversified,India,M,Birla,13716.05175
+156,13715.487,Anders Holch Povlsen,fashion retail,Fashion & Retail,Denmark,M,Povlsen,13715.4868
+157,13700.273,Yu Renrong,semiconductors,Manufacturing,China,M,Yu,13700.27301
+158,13616.435,Zhou Qunfei & family,smartphone screens,Technology,Hong Kong,F,Zhou,13616.4351
+159,13552.483,Joseph Lau,real estate,Real Estate,Hong Kong,M,Lau,13552.48263
+160,13414.397,Tatyana Bakalchuk,ecommerce,Fashion & Retail,Russia,F,Bakalchuk,13414.39689
+161,13323.39,Kim Beom-su,online services,Technology,South Korea,M,Kim,13323.38993
+162,13309.16,Robert & Philip Ng,real estate,Real Estate,Singapore,M,Ng,13309.15955
+163,13261.283,Viktor Rashnikov,steel,Manufacturing,Russia,M,Rashnikov,13243.61829
+164,13226.57,Fan Hongwei & family,petrochemicals,Energy,China,F,Fan,13226.57025
+165,13199.144,David Duffield,business software,Technology,United States,M,Duffield,13199.14425
+166,13185.162,Charoen Sirivadhanabhakdi,"alcohol, real estate",Food & Beverage,Thailand,M,Sirivadhanabhakdi,13185.16189
+167,13147.133,Jorge Moll Filho & family,hospitals,Healthcare,Brazil,M,Moll Filho,13147.13292
+168,13137.563,Bobby Murphy,Snapchat,Technology,United States,M,Murphy,13137.56279
+169,13034.018,Su Hua,video streaming,Media & Entertainment,China,M,Su,13034.01794
+170,13000,Michael Platt,hedge funds,Finance & Investments,United Kingdom,M,Platt,13000
+171,12880.637,Qi Shi & family,financial information,Technology,China,M,Qi,12880.63664
+172,12853.077,Li Ge,pharmaceutical ingredients,Healthcare,United States,M,Li,12853.07734
+173,12773.093,Seo Jung-jin,biotech,Healthcare,South Korea,M,Seo,12773.09333
+174,12762.656,John Doerr,venture capital,Technology,United States,M,Doerr,12762.65599
+175,12750.968,Hank & Doug Meijer,supermarkets,Fashion & Retail,United States,M,Meijer,12750.968
+176,12736.737,Jay Y. Lee,Samsung,Diversified,South Korea,M,Lee,12736.73669
+177,12651.558,Alexander Otto,real estate,Real Estate,Germany,M,Otto,12611.40761
+178,12544.586,Melker Schorling & family,investments,Finance & Investments,Sweden,M,Schorling,12544.58644
+179,12493.922,Robert Kuok,"palm oil, shipping, property",Diversified,Malaysia,M,Kuok,12493.92202
+180,12435.243,Jack Dorsey,"Twitter, Square",Technology,United States,M,Dorsey,12435.2429
+181,12283.573,Patrick Drahi,telecom,Telecom,France,M,Drahi,12283.57309
+182,12235.677,Dilip Shanghvi,pharmaceuticals,Healthcare,India,M,Shanghvi,12235.67721
+183,12198.139,Evan Spiegel,Snapchat,Technology,United States,M,Spiegel,12198.13864
+184,12152.041,Ding Shizhong & family,sports apparel,Fashion & Retail,China,M,Ding,12152.04113
+185,12011.974,Chen Zhiping,e-cigarettes,Manufacturing,China,M,Chen,12011.9744
+186,12000,Jeff Yass,"trading, investments",Finance & Investments,United States,M,Yass,12000
+187,11965.556,Ding Shijia,sports apparel,Fashion & Retail,China,M,Ding,11965.5559
+188,11862.135,Aliko Dangote,"cement, sugar",Manufacturing,Nigeria,M,Dangote,11862.13516
+189,11829.321,Jay Chaudhry,security software,Technology,United States,M,Chaudhry,11829.32052
+190,11774.969,Harry Triguboff,real estate,Real Estate,Australia,M,Triguboff,11774.96919
+191,11718.088,Leonid Fedun & family,oil,Energy,Russia,M,Fedun & family,11718.08762
+192,11710.248,Zhao Yan,biotech,Diversified,China,F,Zhao,11710.24792
+193,11695.244,Li Zhenguo & family,solar wafers and modules ,Manufacturing,China,M,Li,11695.24435
+194,11693.35,Dang Yanbao,coal,Metals & Mining,China,M,Dang,11693.35043
+195,11681.968,Charles Schwab,discount brokerage,Finance & Investments,United States,M,Schwab,11681.9677
+196,11625.286,Qian Dongqi & family,home-cleaning robots,Manufacturing,China,M,Qian,11625.28581
+197,11588.742,Gordon Moore,Intel,Technology,United States,M,Moore,11588.74192
+198,11579.661,Eyal Ofer,"real estate, shipping",Diversified,Israel,M,Ofer,11579.66062
+199,11485.077,Mikhail Prokhorov,investments,Finance & Investments,Russia,M,Prokhorov,11486.16291
+200,11480.537,Liu Jincheng & family,lithium batteries,Technology,China,M,Liu,11480.53705
+201,11412.469,Gianluigi & Rafaela Aponte,Shipping,Logistics,Switzerland,,Aponte,11412.46896
