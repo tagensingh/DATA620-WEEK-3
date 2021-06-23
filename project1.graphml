@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="value" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="agreeable">
+      <data key="d0">0</data>
+    </node>
+    <node id="man">
+      <data key="d0">1</data>
+    </node>
+    <node id="old">
+      <data key="d0">0</data>
+    </node>
+    <node id="person">
+      <data key="d0">1</data>
+    </node>
+    <node id="anything">
+      <data key="d0">1</data>
+    </node>
+    <node id="short">
+      <data key="d0">0</data>
+    </node>
+    <node id="arm">
+      <data key="d0">1</data>
+    </node>
+    <node id="round">
+      <data key="d0">0</data>
+    </node>
+    <node id="aunt">
+      <data key="d0">1</data>
+    </node>
+    <node id="first">
+      <data key="d0">0</data>
+    </node>
+    <node id="bad">
+      <data key="d0">0</data>
+    </node>
+    <node id="air">
+      <data key="d0">1</data>
+    </node>
+    <node id="boy">
+      <data key="d0">1</data>
+    </node>
+    <node id="beautiful">
+      <data key="d0">0</data>
+    </node>
+    <node id="black">
+      <data key="d0">0</data>
+    </node>
+    <node id="face">
+      <data key="d0">1</data>
+    </node>
+    <node id="letter">
+      <data key="d0">1</data>
+    </node>
+    <node id="little">
+      <data key="d0">0</data>
+    </node>
+    <node id="young">
+      <data key="d0">0</data>
+    </node>
+    <node id="best">
+      <data key="d0">0</data>
+    </node>
+    <node id="course">
+      <data key="d0">1</data>
+    </node>
+    <node id="friend">
+      <data key="d0">1</data>
+    </node>
+    <node id="love">
+      <data key="d0">1</data>
+    </node>
+    <node id="part">
+      <data key="d0">1</data>
+    </node>
+    <node id="room">
+      <data key="d0">1</data>
+    </node>
+    <node id="thing">
+      <data key="d0">1</data>
+    </node>
+    <node id="time">
+      <data key="d0">1</data>
+    </node>
+    <node id="way">
+      <data key="d0">1</data>
+    </node>
+    <node id="better">
+      <data key="d0">0</data>
+    </node>
+    <node id="heart">
+      <data key="d0">1</data>
+    </node>
+    <node id="mind">
+      <data key="d0">1</data>
+    </node>
+    <node id="place">
+      <data key="d0">1</data>
+    </node>
+    <node id="right">
+      <data key="d0">0</data>
+    </node>
+    <node id="state">
+      <data key="d0">1</data>
+    </node>
+    <node id="woman">
+      <data key="d0">1</data>
+    </node>
+    <node id="word">
+      <data key="d0">1</data>
+    </node>
+    <node id="door">
+      <data key="d0">1</data>
+    </node>
+    <node id="eye">
+      <data key="d0">1</data>
+    </node>
+    <node id="bright">
+      <data key="d0">0</data>
+    </node>
+    <node id="evening">
+      <data key="d0">1</data>
+    </node>
+    <node id="morning">
+      <data key="d0">1</data>
+    </node>
+    <node id="certain">
+      <data key="d0">0</data>
+    </node>
+    <node id="day">
+      <data key="d0">1</data>
+    </node>
+    <node id="other">
+      <data key="d0">0</data>
+    </node>
+    <node id="child">
+      <data key="d0">1</data>
+    </node>
+    <node id="happy">
+      <data key="d0">0</data>
+    </node>
+    <node id="common">
+      <data key="d0">0</data>
+    </node>
+    <node id="dark">
+      <data key="d0">0</data>
+    </node>
+    <node id="kind">
+      <data key="d0">0</data>
+    </node>
+    <node id="night">
+      <data key="d0">1</data>
+    </node>
+    <node id="dear">
+      <data key="d0">0</data>
+    </node>
+    <node id="good">
+      <data key="d0">0</data>
+    </node>
+    <node id="home">
+      <data key="d0">1</data>
+    </node>
+    <node id="mother">
+      <data key="d0">1</data>
+    </node>
+    <node id="pretty">
+      <data key="d0">0</data>
+    </node>
+    <node id="open">
+      <data key="d0">0</data>
+    </node>
+    <node id="early">
+      <data key="d0">0</data>
+    </node>
+    <node id="fire">
+      <data key="d0">1</data>
+    </node>
+    <node id="full">
+      <data key="d0">0</data>
+    </node>
+    <node id="great">
+      <data key="d0">0</data>
+    </node>
+    <node id="master">
+      <data key="d0">1</data>
+    </node>
+    <node id="moment">
+      <data key="d0">1</data>
+    </node>
+    <node id="work">
+      <data key="d0">1</data>
+    </node>
+    <node id="general">
+      <data key="d0">0</data>
+    </node>
+    <node id="fancy">
+      <data key="d0">0</data>
+    </node>
+    <node id="voice">
+      <data key="d0">1</data>
+    </node>
+    <node id="head">
+      <data key="d0">1</data>
+    </node>
+    <node id="hope">
+      <data key="d0">1</data>
+    </node>
+    <node id="long">
+      <data key="d0">0</data>
+    </node>
+    <node id="greater">
+      <data key="d0">0</data>
+    </node>
+    <node id="hand">
+      <data key="d0">1</data>
+    </node>
+    <node id="hard">
+      <data key="d0">0</data>
+    </node>
+    <node id="red">
+      <data key="d0">0</data>
+    </node>
+    <node id="life">
+      <data key="d0">1</data>
+    </node>
+    <node id="glad">
+      <data key="d0">0</data>
+    </node>
+    <node id="large">
+      <data key="d0">0</data>
+    </node>
+    <node id="new">
+      <data key="d0">0</data>
+    </node>
+    <node id="white">
+      <data key="d0">0</data>
+    </node>
+    <node id="late">
+      <data key="d0">0</data>
+    </node>
+    <node id="whole">
+      <data key="d0">0</data>
+    </node>
+    <node id="light">
+      <data key="d0">0</data>
+    </node>
+    <node id="manner">
+      <data key="d0">1</data>
+    </node>
+    <node id="bed">
+      <data key="d0">1</data>
+    </node>
+    <node id="house">
+      <data key="d0">1</data>
+    </node>
+    <node id="low">
+      <data key="d0">0</data>
+    </node>
+    <node id="money">
+      <data key="d0">1</data>
+    </node>
+    <node id="ready">
+      <data key="d0">0</data>
+    </node>
+    <node id="small">
+      <data key="d0">0</data>
+    </node>
+    <node id="strange">
+      <data key="d0">0</data>
+    </node>
+    <node id="thought">
+      <data key="d0">1</data>
+    </node>
+    <node id="lost">
+      <data key="d0">0</data>
+    </node>
+    <node id="alone">
+      <data key="d0">0</data>
+    </node>
+    <node id="nothing">
+      <data key="d0">1</data>
+    </node>
+    <node id="miserable">
+      <data key="d0">0</data>
+    </node>
+    <node id="natural">
+      <data key="d0">0</data>
+    </node>
+    <node id="half">
+      <data key="d0">1</data>
+    </node>
+    <node id="wrong">
+      <data key="d0">0</data>
+    </node>
+    <node id="name">
+      <data key="d0">1</data>
+    </node>
+    <node id="pleasant">
+      <data key="d0">0</data>
+    </node>
+    <node id="possible">
+      <data key="d0">0</data>
+    </node>
+    <node id="side">
+      <data key="d0">1</data>
+    </node>
+    <node id="perfect">
+      <data key="d0">0</data>
+    </node>
+    <node id="poor">
+      <data key="d0">0</data>
+    </node>
+    <node id="quiet">
+      <data key="d0">0</data>
+    </node>
+    <node id="same">
+      <data key="d0">0</data>
+    </node>
+    <node id="strong">
+      <data key="d0">0</data>
+    </node>
+    <node id="something">
+      <data key="d0">1</data>
+    </node>
+    <node id="true">
+      <data key="d0">0</data>
+    </node>
+    <node id="usual">
+      <data key="d0">0</data>
+    </node>
+    <node id="family">
+      <data key="d0">1</data>
+    </node>
+    <node id="world">
+      <data key="d0">1</data>
+    </node>
+    <node id="year">
+      <data key="d0">1</data>
+    </node>
+    <edge source="agreeable" target="man" />
+    <edge source="agreeable" target="old" />
+    <edge source="agreeable" target="person" />
+    <edge source="man" target="old" />
+    <edge source="man" target="first" />
+    <edge source="man" target="black" />
+    <edge source="man" target="little" />
+    <edge source="man" target="young" />
+    <edge source="man" target="best" />
+    <edge source="man" target="better" />
+    <edge source="man" target="certain" />
+    <edge source="man" target="happy" />
+    <edge source="man" target="common" />
+    <edge source="man" target="good" />
+    <edge source="man" target="alone" />
+    <edge source="man" target="poor" />
+    <edge source="old" target="person" />
+    <edge source="old" target="first" />
+    <edge source="old" target="air" />
+    <edge source="old" target="black" />
+    <edge source="old" target="little" />
+    <edge source="old" target="friend" />
+    <edge source="old" target="love" />
+    <edge source="old" target="part" />
+    <edge source="old" target="room" />
+    <edge source="old" target="thing" />
+    <edge source="old" target="time" />
+    <edge source="old" target="way" />
+    <edge source="old" target="place" />
+    <edge source="old" target="woman" />
+    <edge source="old" target="door" />
+    <edge source="old" target="certain" />
+    <edge source="old" target="day" />
+    <edge source="old" target="happy" />
+    <edge source="old" target="dear" />
+    <edge source="old" target="good" />
+    <edge source="old" target="pretty" />
+    <edge source="old" target="head" />
+    <edge source="old" target="life" />
+    <edge source="old" target="house" />
+    <edge source="old" target="miserable" />
+    <edge source="old" target="name" />
+    <edge source="old" target="pleasant" />
+    <edge source="old" target="poor" />
+    <edge source="old" target="same" />
+    <edge source="old" target="strong" />
+    <edge source="old" target="year" />
+    <edge source="person" target="first" />
+    <edge source="person" target="bad" />
+    <edge source="person" target="young" />
+    <edge source="person" target="certain" />
+    <edge source="person" target="other" />
+    <edge source="person" target="good" />
+    <edge source="person" target="money" />
+    <edge source="anything" target="short" />
+    <edge source="anything" target="thought" />
+    <edge source="short" target="arm" />
+    <edge source="short" target="little" />
+    <edge source="short" target="way" />
+    <edge source="short" target="right" />
+    <edge source="short" target="evening" />
+    <edge source="short" target="other" />
+    <edge source="arm" target="round" />
+    <edge source="arm" target="right" />
+    <edge source="arm" target="good" />
+    <edge source="arm" target="home" />
+    <edge source="arm" target="open" />
+    <edge source="round" target="face" />
+    <edge source="round" target="little" />
+    <edge source="round" target="friend" />
+    <edge source="round" target="eye" />
+    <edge source="round" target="bright" />
+    <edge source="round" target="good" />
+    <edge source="round" target="hand" />
+    <edge source="round" target="large" />
+    <edge source="round" target="small" />
+    <edge source="round" target="something" />
+    <edge source="aunt" target="first" />
+    <edge source="first" target="boy" />
+    <edge source="first" target="little" />
+    <edge source="first" target="room" />
+    <edge source="first" target="thing" />
+    <edge source="first" target="time" />
+    <edge source="first" target="evening" />
+    <edge source="first" target="morning" />
+    <edge source="first" target="day" />
+    <edge source="first" target="great" />
+    <edge source="first" target="master" />
+    <edge source="first" target="moment" />
+    <edge source="first" target="work" />
+    <edge source="first" target="thought" />
+    <edge source="bad" target="air" />
+    <edge source="bad" target="boy" />
+    <edge source="bad" target="dear" />
+    <edge source="air" target="morning" />
+    <edge source="air" target="general" />
+    <edge source="air" target="greater" />
+    <edge source="air" target="pleasant" />
+    <edge source="air" target="same" />
+    <edge source="boy" target="little" />
+    <edge source="boy" target="young" />
+    <edge source="boy" target="other" />
+    <edge source="boy" target="dear" />
+    <edge source="boy" target="small" />
+    <edge source="boy" target="strange" />
+    <edge source="boy" target="poor" />
+    <edge source="boy" target="same" />
+    <edge source="beautiful" target="black" />
+    <edge source="beautiful" target="face" />
+    <edge source="beautiful" target="letter" />
+    <edge source="beautiful" target="little" />
+    <edge source="beautiful" target="young" />
+    <edge source="beautiful" target="poor" />
+    <edge source="black" target="letter" />
+    <edge source="black" target="little" />
+    <edge source="black" target="thing" />
+    <edge source="black" target="door" />
+    <edge source="black" target="eye" />
+    <edge source="black" target="great" />
+    <edge source="black" target="long" />
+    <edge source="black" target="hard" />
+    <edge source="black" target="strong" />
+    <edge source="face" target="little" />
+    <edge source="face" target="right" />
+    <edge source="face" target="bright" />
+    <edge source="face" target="other" />
+    <edge source="face" target="kind" />
+    <edge source="face" target="large" />
+    <edge source="face" target="new" />
+    <edge source="face" target="whole" />
+    <edge source="face" target="strange" />
+    <edge source="face" target="same" />
+    <edge source="letter" target="long" />
+    <edge source="little" target="friend" />
+    <edge source="little" target="love" />
+    <edge source="little" target="room" />
+    <edge source="little" target="thing" />
+    <edge source="little" target="time" />
+    <edge source="little" target="way" />
+    <edge source="little" target="better" />
+    <edge source="little" target="place" />
+    <edge source="little" target="right" />
+    <edge source="little" target="woman" />
+    <edge source="little" target="word" />
+    <edge source="little" target="door" />
+    <edge source="little" target="eye" />
+    <edge source="little" target="bright" />
+    <edge source="little" target="other" />
+    <edge source="little" target="child" />
+    <edge source="little" target="dear" />
+    <edge source="little" target="good" />
+    <edge source="little" target="home" />
+    <edge source="little" target="pretty" />
+    <edge source="little" target="voice" />
+    <edge source="little" target="head" />
+    <edge source="little" target="hope" />
+    <edge source="little" target="hand" />
+    <edge source="little" target="red" />
+    <edge source="little" target="white" />
+    <edge source="little" target="light" />
+    <edge source="little" target="bed" />
+    <edge source="little" target="house" />
+    <edge source="little" target="low" />
+    <edge source="little" target="money" />
+    <edge source="little" target="ready" />
+    <edge source="little" target="small" />
+    <edge source="little" target="strange" />
+    <edge source="little" target="thought" />
+    <edge source="little" target="miserable" />
+    <edge source="little" target="pleasant" />
+    <edge source="little" target="poor" />
+    <edge source="little" target="quiet" />
+    <edge source="little" target="same" />
+    <edge source="young" target="friend" />
+    <edge source="young" target="heart" />
+    <edge source="young" target="woman" />
+    <edge source="young" target="other" />
+    <edge source="young" target="child" />
+    <edge source="young" target="dear" />
+    <edge source="young" target="good" />
+    <edge source="young" target="mother" />
+    <edge source="young" target="pretty" />
+    <edge source="young" target="master" />
+    <edge source="best" target="course" />
+    <edge source="best" target="friend" />
+    <edge source="best" target="love" />
+    <edge source="best" target="part" />
+    <edge source="best" target="room" />
+    <edge source="best" target="thing" />
+    <edge source="best" target="time" />
+    <edge source="best" target="way" />
+    <edge source="course" target="other" />
+    <edge source="course" target="whole" />
+    <edge source="course" target="natural" />
+    <edge source="course" target="usual" />
+    <edge source="friend" target="better" />
+    <edge source="friend" target="other" />
+    <edge source="friend" target="kind" />
+    <edge source="friend" target="dear" />
+    <edge source="friend" target="good" />
+    <edge source="love" target="happy" />
+    <edge source="love" target="natural" />
+    <edge source="part" target="other" />
+    <edge source="part" target="dark" />
+    <edge source="part" target="good" />
+    <edge source="part" target="great" />
+    <edge source="part" target="greater" />
+    <edge source="part" target="strong" />
+    <edge source="room" target="door" />
+    <edge source="room" target="other" />
+    <edge source="room" target="dark" />
+    <edge source="room" target="night" />
+    <edge source="room" target="long" />
+    <edge source="room" target="large" />
+    <edge source="room" target="new" />
+    <edge source="room" target="small" />
+    <edge source="room" target="quiet" />
+    <edge source="room" target="same" />
+    <edge source="room" target="usual" />
+    <edge source="thing" target="mind" />
+    <edge source="thing" target="certain" />
+    <edge source="thing" target="common" />
+    <edge source="thing" target="kind" />
+    <edge source="thing" target="good" />
+    <edge source="thing" target="great" />
+    <edge source="thing" target="white" />
+    <edge source="thing" target="strange" />
+    <edge source="thing" target="same" />
+    <edge source="time" target="other" />
+    <edge source="time" target="good" />
+    <edge source="time" target="early" />
+    <edge source="time" target="long" />
+    <edge source="time" target="whole" />
+    <edge source="time" target="light" />
+    <edge source="time" target="same" />
+    <edge source="way" target="other" />
+    <edge source="way" target="home" />
+    <edge source="way" target="pretty" />
+    <edge source="way" target="general" />
+    <edge source="way" target="long" />
+    <edge source="way" target="new" />
+    <edge source="way" target="whole" />
+    <edge source="way" target="light" />
+    <edge source="way" target="small" />
+    <edge source="way" target="wrong" />
+    <edge source="way" target="quiet" />
+    <edge source="better" target="heart" />
+    <edge source="better" target="mind" />
+    <edge source="better" target="place" />
+    <edge source="better" target="right" />
+    <edge source="better" target="state" />
+    <edge source="better" target="woman" />
+    <edge source="better" target="word" />
+    <edge source="better" target="child" />
+    <edge source="better" target="thought" />
+    <edge source="better" target="nothing" />
+    <edge source="heart" target="full" />
+    <edge source="heart" target="glad" />
+    <edge source="heart" target="whole" />
+    <edge source="mind" target="good" />
+    <edge source="mind" target="whole" />
+    <edge source="mind" target="low" />
+    <edge source="mind" target="nothing" />
+    <edge source="place" target="right" />
+    <edge source="place" target="certain" />
+    <edge source="place" target="other" />
+    <edge source="place" target="good" />
+    <edge source="place" target="whole" />
+    <edge source="place" target="ready" />
+    <edge source="place" target="quiet" />
+    <edge source="place" target="same" />
+    <edge source="place" target="usual" />
+    <edge source="right" target="good" />
+    <edge source="right" target="home" />
+    <edge source="right" target="hand" />
+    <edge source="right" target="side" />
+    <edge source="state" target="new" />
+    <edge source="state" target="low" />
+    <edge source="state" target="same" />
+    <edge source="state" target="true" />
+    <edge source="woman" target="good" />
+    <edge source="woman" target="pretty" />
+    <edge source="woman" target="true" />
+    <edge source="word" target="kind" />
+    <edge source="word" target="good" />
+    <edge source="word" target="hard" />
+    <edge source="word" target="same" />
+    <edge source="door" target="other" />
+    <edge source="door" target="open" />
+    <edge source="door" target="small" />
+    <edge source="eye" target="bright" />
+    <edge source="eye" target="dark" />
+    <edge source="eye" target="fire" />
+    <edge source="eye" target="full" />
+    <edge source="eye" target="great" />
+    <edge source="eye" target="red" />
+    <edge source="eye" target="quiet" />
+    <edge source="bright" target="evening" />
+    <edge source="bright" target="morning" />
+    <edge source="bright" target="certain" />
+    <edge source="bright" target="good" />
+    <edge source="bright" target="same" />
+    <edge source="evening" target="other" />
+    <edge source="evening" target="quiet" />
+    <edge source="morning" target="early" />
+    <edge source="certain" target="day" />
+    <edge source="certain" target="other" />
+    <edge source="day" target="good" />
+    <edge source="day" target="early" />
+    <edge source="day" target="whole" />
+    <edge source="day" target="lost" />
+    <edge source="other" target="child" />
+    <edge source="other" target="kind" />
+    <edge source="other" target="great" />
+    <edge source="other" target="general" />
+    <edge source="other" target="head" />
+    <edge source="other" target="hand" />
+    <edge source="other" target="light" />
+    <edge source="other" target="manner" />
+    <edge source="other" target="house" />
+    <edge source="other" target="pleasant" />
+    <edge source="other" target="possible" />
+    <edge source="other" target="side" />
+    <edge source="child" target="happy" />
+    <edge source="child" target="dear" />
+    <edge source="child" target="poor" />
+    <edge source="happy" target="home" />
+    <edge source="happy" target="life" />
+    <edge source="common" target="same" />
+    <edge source="dark" target="kind" />
+    <edge source="dark" target="night" />
+    <edge source="kind" target="dear" />
+    <edge source="kind" target="new" />
+    <edge source="kind" target="strange" />
+    <edge source="kind" target="same" />
+    <edge source="night" target="good" />
+    <edge source="night" target="great" />
+    <edge source="night" target="long" />
+    <edge source="dear" target="good" />
+    <edge source="dear" target="home" />
+    <edge source="dear" target="mother" />
+    <edge source="dear" target="pretty" />
+    <edge source="dear" target="late" />
+    <edge source="dear" target="poor" />
+    <edge source="dear" target="same" />
+    <edge source="good" target="pretty" />
+    <edge source="good" target="fire" />
+    <edge source="good" target="great" />
+    <edge source="good" target="head" />
+    <edge source="good" target="hope" />
+    <edge source="good" target="long" />
+    <edge source="good" target="perfect" />
+    <edge source="good" target="something" />
+    <edge source="home" target="early" />
+    <edge source="mother" target="pretty" />
+    <edge source="mother" target="life" />
+    <edge source="mother" target="thought" />
+    <edge source="mother" target="poor" />
+    <edge source="pretty" target="long" />
+    <edge source="pretty" target="hand" />
+    <edge source="pretty" target="red" />
+    <edge source="pretty" target="large" />
+    <edge source="pretty" target="late" />
+    <edge source="open" target="hand" />
+    <edge source="fire" target="large" />
+    <edge source="great" target="voice" />
+    <edge source="great" target="hand" />
+    <edge source="great" target="hard" />
+    <edge source="great" target="red" />
+    <edge source="great" target="same" />
+    <edge source="master" target="hard" />
+    <edge source="master" target="new" />
+    <edge source="master" target="perfect" />
+    <edge source="moment" target="same" />
+    <edge source="work" target="hard" />
+    <edge source="general" target="fancy" />
+    <edge source="general" target="voice" />
+    <edge source="voice" target="low" />
+    <edge source="voice" target="small" />
+    <edge source="voice" target="quiet" />
+    <edge source="head" target="red" />
+    <edge source="head" target="large" />
+    <edge source="head" target="poor" />
+    <edge source="hope" target="new" />
+    <edge source="hope" target="small" />
+    <edge source="long" target="hand" />
+    <edge source="long" target="life" />
+    <edge source="long" target="large" />
+    <edge source="long" target="low" />
+    <edge source="hand" target="large" />
+    <edge source="hand" target="small" />
+    <edge source="hand" target="poor" />
+    <edge source="hand" target="strong" />
+    <edge source="hard" target="life" />
+    <edge source="red" target="light" />
+    <edge source="red" target="strong" />
+    <edge source="life" target="new" />
+    <edge source="life" target="quiet" />
+    <edge source="large" target="new" />
+    <edge source="large" target="white" />
+    <edge source="new" target="light" />
+    <edge source="new" target="nothing" />
+    <edge source="new" target="something" />
+    <edge source="late" target="whole" />
+    <edge source="whole" target="manner" />
+    <edge source="whole" target="house" />
+    <edge source="whole" target="family" />
+    <edge source="whole" target="world" />
+    <edge source="light" target="manner" />
+    <edge source="light" target="something" />
+    <edge source="manner" target="natural" />
+    <edge source="manner" target="pleasant" />
+    <edge source="manner" target="same" />
+    <edge source="house" target="small" />
+    <edge source="low" target="same" />
+    <edge source="strange" target="something" />
+    <edge source="thought" target="nothing" />
+    <edge source="thought" target="possible" />
+    <edge source="nothing" target="half" />
+    <edge source="nothing" target="wrong" />
+    <edge source="wrong" target="something" />
+    <edge source="side" target="world" />
+    <edge source="quiet" target="same" />
+    <edge source="same" target="strong" />
+    <edge source="strong" target="usual" />
+  </graph>
+</graphml>
